@@ -17,8 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
-        android:lines="1"
-        android:importantForAutofill="no" />
+        android:lines="1" />
 
     <TextView
         android:layout_width="match_parent"
